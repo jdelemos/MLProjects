@@ -1,5 +1,5 @@
 # MLProjects
-#h1 Small Object Detection - Roboflow Trained Models 
+Small Object Detection - Roboflow Trained Models 
 
 Initially, we trained the model using roboflow to create confidences of certain objects. Later in the script we targeted only models that received 
 high enough confidence.
